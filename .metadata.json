@@ -1,0 +1,10 @@
+[
+  {
+    "package": "MLeval",
+    "oncran": true
+  },
+  {
+    "package": "Spectrum",
+    "oncran": true
+  }
+]

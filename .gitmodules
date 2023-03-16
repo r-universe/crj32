@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MLeval"]
+	path = MLeval
+	url = https://github.com/crj32/mleval
+	shallow = true
+	registered = true
+[submodule "Spectrum"]
+	path = Spectrum
+	url = https://github.com/crj32/spectrum
+	shallow = true
+	registered = true
