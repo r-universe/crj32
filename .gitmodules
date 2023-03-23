@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "M3C"]
+	path = M3C
+	url = https://git.bioconductor.org/packages/M3C
+	shallow = true
+	registered = true
 [submodule "MLeval"]
 	path = MLeval
 	url = https://github.com/crj32/mleval
