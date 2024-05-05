@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "M3C"]
-	path = M3C
-	url = https://git.bioconductor.org/packages/M3C
 [submodule "MLeval"]
 	path = MLeval
 	url = https://github.com/crj32/mleval
